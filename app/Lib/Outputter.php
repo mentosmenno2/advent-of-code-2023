@@ -1,6 +1,6 @@
 <?php
 
-namespace Mentosmenno2\AdventOfCode2022\Lib;
+namespace Mentosmenno2\AdventOfCode2023\Lib;
 
 class Outputter
 {
@@ -16,7 +16,7 @@ class Outputter
 
 	protected function get_line_ending(): string
 	{
-		if (ADVENT_OF_CODE_2022_CLI) {
+		if (ADVENT_OF_CODE_2023_CLI) {
 			return PHP_EOL;
 		} else {
 			return '<br />';

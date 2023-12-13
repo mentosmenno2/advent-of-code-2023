@@ -1,11 +1,11 @@
 
-[![GitHub Actions status](https://github.com/mentosmenno2/advent-of-code-2022/workflows/Build%20%26%20test/badge.svg)](https://github.com/mentosmenno2/advent-of-code-2022/actions)
+[![GitHub Actions status](https://github.com/mentosmenno2/advent-of-code-2023/workflows/Build%20%26%20test/badge.svg)](https://github.com/mentosmenno2/advent-of-code-2023/actions)
 
-# Advent Of Code 2022
+# Advent Of Code 2023
 
-I'm attempting to solve puzzles from advent of code 2022.
+I'm attempting to solve puzzles from advent of code 2023.
 
-https://adventofcode.com/2022
+https://adventofcode.com/2023
 
 I use the PHP language for solving these puzzles.
 

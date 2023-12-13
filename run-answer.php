@@ -7,7 +7,7 @@
  */
 
 $classname = sprintf(
-	'\\' . ADVENT_OF_CODE_2022_NAMESPACE . 'Answers\\Day%s\\Part%s\\Game',
+	'\\' . ADVENT_OF_CODE_2023_NAMESPACE . 'Answers\\Day%s\\Part%s\\Game',
 	str_pad($dayNumber, 2, '0', STR_PAD_LEFT),
 	(string) intval($partNumber)
 );

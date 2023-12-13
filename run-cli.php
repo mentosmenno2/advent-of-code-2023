@@ -11,4 +11,4 @@ $dayNumber = $argv[1];
 $partNumber = $argv[2];
 $useTestData = filter_var($argv[3] ?? false, FILTER_VALIDATE_BOOLEAN);
 
-require_once ADVENT_OF_CODE_2022_ROOT_DIR . '/run-answer.php';
+require_once ADVENT_OF_CODE_2023_ROOT_DIR . '/run-answer.php';

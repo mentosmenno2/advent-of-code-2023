@@ -1,8 +1,8 @@
 <?php
 
-namespace Mentosmenno2\AdventOfCode2022\Answers\Day01\Part1;
+namespace Mentosmenno2\AdventOfCode2023\Answers\Day01\Part1;
 
-use Mentosmenno2\AdventOfCode2022\Lib\AbstractGame;
+use Mentosmenno2\AdventOfCode2023\Lib\AbstractGame;
 
 final class Game extends AbstractGame
 {

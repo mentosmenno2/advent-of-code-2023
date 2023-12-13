@@ -1,6 +1,6 @@
 {
-    "name": "mentosmenno2/advent-of-code-2022",
-    "description": "Solving puzzles from advent of code 2022 here",
+    "name": "mentosmenno2/advent-of-code-2023",
+    "description": "Solving puzzles from advent of code 2023 here",
     "type": "library",
     "license": "GPL-3.0-or-later",
     "authors": [
@@ -16,7 +16,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Mentosmenno2\\AdventOfCode2022\\": "app/"
+            "Mentosmenno2\\AdventOfCode2023\\": "app/"
         }
     },
     "require": {

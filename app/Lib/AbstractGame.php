@@ -1,6 +1,6 @@
 <?php
 
-namespace Mentosmenno2\AdventOfCode2022\Lib;
+namespace Mentosmenno2\AdventOfCode2023\Lib;
 
 abstract class AbstractGame
 {

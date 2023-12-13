@@ -80,7 +80,7 @@
                 "issues": "https://github.com/dealerdirect/phpcodesniffer-composer-installer/issues",
                 "source": "https://github.com/dealerdirect/phpcodesniffer-composer-installer"
             },
-            "time": "2022-02-04T12:51:07+00:00"
+            "time": "2023-02-04T12:51:07+00:00"
         },
         {
             "name": "mentosmenno2/coding-standards",
@@ -235,7 +235,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-11-10T09:56:11+00:00"
+            "time": "2023-11-10T09:56:11+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
@@ -291,7 +291,7 @@
                 "source": "https://github.com/squizlabs/PHP_CodeSniffer",
                 "wiki": "https://github.com/squizlabs/PHP_CodeSniffer/wiki"
             },
-            "time": "2022-06-18T07:21:10+00:00"
+            "time": "2023-06-18T07:21:10+00:00"
         },
         {
             "name": "wp-coding-standards/wpcs",

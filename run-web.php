@@ -12,7 +12,7 @@ $useTestData = (bool) filter_input(INPUT_GET, 'useTestData', FILTER_VALIDATE_BOO
 		<meta charset="UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Advent Of Code 2022</title>
+		<title>Advent Of Code 2023</title>
 		<link href="//fonts.googleapis.com/css?family=Source+Code+Pro:300&subset=latin,latin-ext" rel="stylesheet" type="text/css">
 
 		<style>
@@ -77,8 +77,8 @@ $useTestData = (bool) filter_input(INPUT_GET, 'useTestData', FILTER_VALIDATE_BOO
 	</head>
 	<body>
 		<main>
-			<h1>Advent Of Code 2022</h1>
-			<p>Solving puzzles from advent of code 2022 here.</p>
+			<h1>Advent Of Code 2023</h1>
+			<p>Solving puzzles from advent of code 2023 here.</p>
 
 			<h2>Answer select</h2>
 			<form action="" method="get">
@@ -139,7 +139,7 @@ $useTestData = (bool) filter_input(INPUT_GET, 'useTestData', FILTER_VALIDATE_BOO
 			<p>
 				<?php
 				if ($dayNumber && $partNumber) { // @phpstan-ignore-line
-					require_once ADVENT_OF_CODE_2022_ROOT_DIR . '/run-answer.php';
+					require_once ADVENT_OF_CODE_2023_ROOT_DIR . '/run-answer.php';
 				} else {
 					?> Choose a day number and part number to view the answer.<?php
 				}
