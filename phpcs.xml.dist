@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ruleset name="ImageCropPositioner">
+	<description>Mentosmenno2 Image Crop Positioner ruleset</description>
+	<config name="testVersion" value="8.1-"/>
+	<file>./app</file>
+	<file>./index.php</file>
+	<file>./autoloader.php</file>
+	<file>./run-answer.php</file>
+	<file>./run-cli.php</file>
+	<file>./run-web.php</file>
+
+	<arg name="colors"/>
+	<arg value="sp"/>
+
+	<rule ref="PHPCompatibility"/>
+	<rule ref="Mentosmenno2-Laravel"/>
+
+	<rule ref="PSR1.Files.SideEffects.FoundWithSymbols">
+		<severity>0</severity>
+	</rule>
+	<rule ref="PSR1.Classes.ClassDeclaration.MissingNamespace">
+		<severity>0</severity>
+	</rule>
+	<rule ref="PSR1.Methods.CamelCapsMethodName.NotCamelCaps">
+		<severity>0</severity>
+	</rule>
+</ruleset>
