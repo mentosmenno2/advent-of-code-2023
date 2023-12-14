@@ -8,7 +8,7 @@ final class Game extends AbstractGame
 {
 
 	/**
-	 * @var string[]
+	 * @var array<array<string>>
 	 */
 	protected $lines = array();
 
