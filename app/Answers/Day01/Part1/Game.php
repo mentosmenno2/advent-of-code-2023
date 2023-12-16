@@ -28,7 +28,6 @@ final class Game extends AbstractGame
 
 		// Loop over all text lines.
 		foreach ($this->lines as $index => $line) {
-
 			// Extract only the numbers from the text.
 			$digits = array_filter($line, function (string $character) {
 				return is_numeric($character);
